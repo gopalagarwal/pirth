@@ -31,3 +31,4 @@ and use 'make' command.
 
 * To recompile each component, within the corresponding directory, first use 'make clean' and then use 'make' command.
 
+
